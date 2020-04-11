@@ -1,0 +1,77 @@
+82)	The system shall not populate the %NV Payment Terms KEY field     a)	It is not needed for 1.1 or 2.0 at this time
+83)	The system shall not populate the %SAP Payment Terms KEY field    a)	It is not needed for 1.1 or 2.0 at this time
+84)	The system shall not populate the INCO Terms field                a)	It is not needed for 1.1 or 2.0 at this time
+85)	The system shall not populate the NV Payment Terms Desc field     a)	It is not needed for 1.1 or 2.0 at this time
+86)	The system shall not populate the Payment Terms field             a)	It is not needed for 1.1 or 2.0 at this time
+87)	The system shall not populate the SAP INCO Terms field            a)	It is not needed for 1.1 or 2.0 at this time
+88)	The system shall not populate the SAP INCO Terms Desc field       a)	It is not needed for 1.1 or 2.0 at this time
+89)	The system shall not populate the SAP Pay Terms field             a)	It is not needed for 1.1 or 2.0 at this time
+90)	The system shall not populate the SAP Payment Terms Desc field    a)	It is not needed for 1.1 or 2.0 at this time
+91)	The system shall not populate the BASE_UOM_ID field               a)	It is not needed 2.0 
+92)	The system shall not populate the Basis Weight Variance field     a)	It is not needed 2.0 
+93)	The system shall not populate the CALIPER_UOM field               a)	It is not needed 2.0 
+94)	The system shall not populate the COUNT_UNITS field               a)	It is not needed 2.0 
+95)	The system shall not populate the CUSTOM field                    a)	It is not needed 2.0 
+96)	The system shall not populate the Customer Sales Rep field        a)	It is not needed 2.0 
+97)	The system shall not populate the DATESTAMP field                 a)	It is not needed 2.0 
+98)	The system shall not populate the Discounts LOC field             a)	It is not needed 2.0 
+99)	The system shall not populate the END_CUSTOMER field              a)	It is not needed 2.0 
+100)The system shall not populate the FIRST_SHIP_DATE field           a)	It is not needed 2.0 
+101)The system shall not populate the Freight Upcharge LOC field      a)	It is not needed 2.0 
+102)The system shall not populate the Gross Price Per Ton field       a)	It is not needed 2.0 
+103)The system shall not populate the Gross Revenue LOC field         a)	It is not needed 2.0 
+104)The system shall not populate the INNOVATIVE field                a)	It is not needed 2.0 
+105)The system shall not populate the Invoice Line 1 Desc field       a)	It is not needed 2.0 
+106)The system shall not populate the Invoice Line 2 Desc field       a)	It is not needed 2.0 
+107)The system shall not populate the MAX_EXT_DATESTAMP field         a)	It is not needed 2.0 
+108)The system shall not populate the new_segment_id field            a)	It is not needed 2.0 
+109)The system shall not populate the Nominal Invoice Price field     a)	It is not needed 2.0 
+110)The system shall not populate the Other Deductions LOC field      a)	It is not needed 2.0 
+111)The system shall not populate the PFL ID field                    a)	It is not needed 2.0 
+112)The system shall not populate the PFL_ID field                    a)	It is not needed 2.0 
+113)The system shall not populate the POST_DAY field                  a)	It is not needed 2.0 
+114)The system shall not populate the PROD_CAT_ID field               a)	It is not needed 2.0 
+115)The system shall not populate the PROD_PLAT_ID Desc field         a)	It is not needed 2.0 
+116)The system shall not populate the Rebates LOC field               a)	It is not needed 2.0 
+117)The system shall not populate the Ship Material ID field          a)	It is not needed 2.0 
+118)The system shall not populate the CREDIT_CODE field                               a)	It is not needed from AS400
+119)The system shall not populate the %J4 Mapping Key field                           a)	It is not needed from AS400
+120)The system shall not populate the %NV Mapping Key field                           a)	It is not needed from AS400
+121)The system shall not populate the %Poly Grade Key field                           a)	It is not needed from AS400
+122)The system shall not populate the BUSINESS_UNIT_ID field                          a)	It is not needed from AS400
+123)The system shall not populate the business_unit_id field                          a)	It is not needed from AS400
+124)The system shall not populate the Claims LOC field                                a)	It is not needed from AS400
+125)The system shall not populate the CustKey field                                   a)	It is not needed from AS400
+126)The system shall not populate the FP Material ID field                            a)	It is not needed from AS400
+127)The system shall not populate the Freight Invoice LOC field                       a)	It is not needed from AS400
+128)The system shall not populate the Front End Show? field                           a)	It is not needed from AS400
+129)The system shall not populate the Invoice Loc # field                             a)	It is not needed from AS400
+130)The system shall not populate the J4 Map Basis Weight field                       a)	It is not needed from AS400
+131)The system shall not populate the J4 Map Caliper field                            a)	It is not needed from AS400
+132)The system shall not populate the Nominal Invoice Revenue field                   a)	It is not needed from AS400
+133)The system shall not populate the NV Map Basis Weight field                       a)	It is not needed from AS400
+134)The system shall not populate the NV Map Caliper field                            a)	It is not needed from AS400
+135)The system shall not populate the Poly Grade field                                a)	It is not needed from AS400
+136)The system shall not populate the Service Allowances LOC field                    a)	It is not needed from AS400
+137)The system shall not populate the %Commercial Print Material KEY field            a)	It is not needed from AS400
+138)The system shall not populate the CP Subset field                                 a)	It is not needed from AS400
+139)The system shall not populate the CP KPG field                                    a)	It is not needed from AS400
+140)The system shall not populate the Mapped CP? field                                a)	It is not needed from AS400
+141)The system shall not populate the %Commercial Print Customer KEY field            a)	It is not needed from AS400
+142)The system shall not populate the Channel field                                   a)	It is not needed from AS400
+143)The system shall not populate the CP Sales Rep field                              a)	It is not needed from AS400
+144)The system shall not populate the %Commercial Print Region KEY field              a)	It is not needed from AS400
+145)The system shall not populate the Mode field                                      a)	It is not needed from AS400
+146)The system shall not populate the CP Region field                                 a)	It is not needed from AS400
+147)The system shall not populate the %Commercial Print Exclude Customer KEY field    a)	It is not needed from AS400
+148)The system shall not populate the %Commercial Print Service Allowance KEY field   a)	It is not needed from AS400
+149)The system shall not populate the %Commercial Sales Rep KEY field                 a)	It is not needed from AS400
+150)The system shall not populate the %Force Poly KEY field                           a)	It is not needed from AS400
+151)The system shall not populate the Comm Print Customer? field                      a)	It is not needed from AS400
+152)The system shall not populate the Comm Print Service Allowance field              a)	It is not needed from AS400
+153)The system shall not populate the CP-Sales Region field                           a)	It is not needed from AS400
+154)The system shall not populate the Force Poly 1 field                              a)	It is not needed from AS400
+155)The system shall not populate the Force Poly 2 field                              a)	It is not needed from AS400
+156)The system shall not populate the From Where? field                               a)	It is not needed from AS400
+157)The system shall not populate the Sales Rep Desc Temp field                       a)	It is not needed from AS400
+158)The system shall not populate the Ship To Region Temp field                       a)	It is not needed from AS400

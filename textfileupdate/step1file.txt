@@ -1,0 +1,77 @@
+%nv payment terms key 
+%sap payment terms key 
+inco terms 
+nv payment terms desc 
+payment terms 
+sap inco terms 
+sap inco terms desc 
+sap pay terms 
+sap payment terms desc 
+base_uom_id 
+basis weight variance 
+caliper_uom 
+count_units 
+custom 
+customer sales rep 
+datestamp 
+discounts loc 
+end_customer 
+first_ship_date 
+freight upcharge loc 
+gross price per ton 
+gross revenue loc 
+innovative 
+invoice line 1 desc 
+invoice line 2 desc 
+max_ext_datestamp 
+new_segment_id 
+nominal invoice price 
+other deductions loc 
+pfl id 
+pfl_id 
+post_day 
+prod_cat_id 
+prod_plat_id desc 
+rebates loc 
+ship material id 
+credit_code 
+%j4 mapping key 
+%nv mapping key 
+%poly grade key 
+business_unit_id 
+business_unit_id 
+claims loc 
+custkey 
+fp material id 
+freight invoice loc 
+front end show? 
+invoice loc # 
+j4 map basis weight 
+j4 map caliper 
+nominal invoice revenue 
+nv map basis weight 
+nv map caliper 
+poly grade 
+service allowances loc 
+%commercial print material key 
+cp subset 
+cp kpg 
+mapped cp? 
+%commercial print customer key 
+channel 
+cp sales rep 
+%commercial print region key 
+mode 
+cp region 
+%commercial print exclude customer key 
+%commercial print service allowance key 
+%commercial sales rep key 
+%force poly key 
+comm print customer? 
+comm print service allowance 
+cp-sales region 
+force poly 1 
+force poly 2 
+from where? 
+sales rep desc temp 
+ship to region temp 
